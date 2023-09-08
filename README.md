@@ -1,3 +1,2 @@
 # School-data-
 SQL
-This code revolves around creating and managing a database named "SQL" It entails a series of tasks involving SQL queries and database design. The primary objectives are as follows: first, to design a table, "MyGraph," capable of storing directed graphs meticulously; second, to store a predefined graph within this table; third, to retrieve source vertices and destinations from the database based on certain criteria; fourth, to augment the graph by adding a weight column to represent link weights; fifth, to assign random weights within a specified range to each link; and finally, to extract and return the unique weight values present in the database. The code assesses database creation, schema design, SQL query writing, and data manipulation skills.
